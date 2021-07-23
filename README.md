@@ -1,0 +1,2 @@
+# image-resource
+some images
